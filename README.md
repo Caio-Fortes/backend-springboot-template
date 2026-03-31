@@ -1,6 +1,6 @@
-# 🔹 [emoj decorativo] [nome projeto] [ano]
+# 🔹 🚀 Spring Boot CRUD Template 2026
 
-[breve descrição ex: Landing Page desenvolvida, com objetivo...]
+Template base de aplicação CRUD desenvolvido com Spring Boot, com o objetivo de acelerar a criação de APIs REST seguindo boas práticas e arquitetura organizada
 
 🔗 [Acesse a aplicação]()
 
